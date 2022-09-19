@@ -1,6 +1,6 @@
 # Wasserstein-GAN
 
-### Results example:
+### Results example
 
 
 ![image](https://user-images.githubusercontent.com/113569606/191010163-1f30a6f5-e2a3-40d6-9977-e484c7a1b7fb.png)
